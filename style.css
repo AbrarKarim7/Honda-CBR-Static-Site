@@ -13,3 +13,13 @@
     padding-left: 80px;
     padding-bottom: 60px;
     padding-top: 40px;
+}
+.text-padding{
+    padding-top: 15px;
+}
+.star-color{
+    color: rgb(247, 96, 9);
+}
+.font-bold{
+    font-weight: 700;
+}
