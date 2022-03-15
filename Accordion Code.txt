@@ -1,0 +1,61 @@
+   <!-- test content -->
+              <div class="row my-5 g-5 justtify-content-around align-items-center">
+                <div class="col-5 col-lg-4">
+                   <img src="" alt="" class="img-fluid">
+                </div>
+  
+                <div class="accordion" id="chapters">
+                  <div class="accordion-item">
+                    <h2 class="accordion-header" id="heading-1">
+                      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#chapter-1" aria-expanded="true" aria-controls="chapter-1">
+                        Chapter 1 - My first web page
+                      </button>
+                    </h2>
+                    <div id="chapter-1" class="accordion-collapse collapse show" aria-labelledby="heading-1" data-bs-parent="#chapters">
+                      <div class="accordion-body">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ex cumque temporibus delectus ad possimus ratione minima omnis culpa. Dolorum esse a amet reprehenderit. Numquam illum doloribus sapiente. Tempore, quisquam. Expedita.</p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae tenetur iusto commodi debitis provident quaerat quidem nihil aliquid explicabo magnam, aliquam consequuntur possimus accusamus ipsam facere libero rerum atque impedit.</p>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="accordion-item">
+                    <h2 class="accordion-header" id="heading-2">
+                      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#chapter-1" aria-expanded="true" aria-controls="chapter-1">
+                        Chapter 1 - My first web page
+                      </button>
+                    </h2>
+                    <div id="chapter-1" class="accordion-collapse collapse" aria-labelledby="heading-1" data-bs-parent="#chapters">
+                      <div class="accordion-body">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ex cumque temporibus delectus ad possimus ratione minima omnis culpa. Dolorum esse a amet reprehenderit. Numquam illum doloribus sapiente. Tempore, quisquam. Expedita.</p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae tenetur iusto commodi debitis provident quaerat quidem nihil aliquid explicabo magnam, aliquam consequuntur possimus accusamus ipsam facere libero rerum atque impedit.</p>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="accordion-item">
+                    <h2 class="accordion-header" id="heading-3">
+                      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#chapter-1" aria-expanded="true" aria-controls="chapter-1">
+                        Chapter 1 - My first web page
+                      </button>
+                    </h2>
+                    <div id="chapter-1" class="accordion-collapse collapse" aria-labelledby="heading-1" data-bs-parent="#chapters">
+                      <div class="accordion-body">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ex cumque temporibus delectus ad possimus ratione minima omnis culpa. Dolorum esse a amet reprehenderit. Numquam illum doloribus sapiente. Tempore, quisquam. Expedita.</p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae tenetur iusto commodi debitis provident quaerat quidem nihil aliquid explicabo magnam, aliquam consequuntur possimus accusamus ipsam facere libero rerum atque impedit.</p>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="accordion-item">
+                    <h2 class="accordion-header" id="heading-4">
+                      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#chapter-1" aria-expanded="true" aria-controls="chapter-1">
+                        Chapter 1 - My first web page
+                      </button>
+                    </h2>
+                    <div id="chapter-1" class="accordion-collapse collapse" aria-labelledby="heading-1" data-bs-parent="#chapters">
+                      <div class="accordion-body">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ex cumque temporibus delectus ad possimus ratione minima omnis culpa. Dolorum esse a amet reprehenderit. Numquam illum doloribus sapiente. Tempore, quisquam. Expedita.</p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae tenetur iusto commodi debitis provident quaerat quidem nihil aliquid explicabo magnam, aliquam consequuntur possimus accusamus ipsam facere libero rerum atque impedit.</p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
