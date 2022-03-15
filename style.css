@@ -23,3 +23,6 @@
 .font-bold{
     font-weight: 700;
 }
+.gray{
+    filter: grayscale(1);
+}
