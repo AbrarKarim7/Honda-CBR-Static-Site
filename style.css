@@ -3,6 +3,9 @@
 }
 .button-color{
     background-color: #E76F51;
+    color:white;
+    font-weight: 600;
+    padding: 8px 35px;
 }
 .text-color{
     color: #E76F51;
