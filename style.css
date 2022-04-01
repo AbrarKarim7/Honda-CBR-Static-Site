@@ -29,3 +29,7 @@
 .gray{
     filter: grayscale(1);
 }
+.carousel-color{
+    background-color: #264653;
+    color:blanchedalmond;
+}
